@@ -1,5 +1,7 @@
 ![Codewars](https://github.r2v.ch/codewars?user=KstnNN&stroke=%23BB432C)
 
+![GitHub Views](https://komarev.com/ghpvc/?username=Lutra-Lutra-Lutra)
+
 <!---
 - 👋 Hi, I’m @Lutra-Lutra-Lutra
 - 👀 I’m interested in ...
