@@ -1,6 +1,6 @@
 ![Codewars](https://github.r2v.ch/codewars?user=KstnNN&stroke=%23BB432C)
 
-[![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=Lutra-Lutra-Lutra)]
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Lutra-Lutra-Lutra)](https://leetcode.com/u/Lutra-Lutra-Lutra/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Lutra-Lutra-Lutra)
 
